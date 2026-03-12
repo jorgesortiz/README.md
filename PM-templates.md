@@ -11,7 +11,7 @@ industries.
 | [roadmap-template.md](https://github.com/jorgesortiz/README.md/blob/main/roadmap-template.md) | Quarterly roadmap format |
 | [okr-template.md](https://github.com/jorgesortiz/README.md/blob/main/okr-template.md) | Objectives and key results framework |
 | [user-story-template.md](https://github.com/jorgesortiz/README.md/blob/main/user-story-template.md) | User story with acceptance criteria |
-| `competitive-analysis-template.md` | Structured competitor breakdown |
+| [competitive-analysis-template.md](https://github.com/jorgesortiz/README.md/blob/main/competitive-analysis-template.md) | Structured competitor breakdown |
 
 ## Who this is for
 
