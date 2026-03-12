@@ -26,7 +26,7 @@ compliance-heavy environments where the stakes are real.
 |---|---|---|
 | [fraud-detection-prd](/) | Full PRD for an ML-based fraud detection product | Fintech / AI |
 | [spendinghabits-product-spec](/) | Product spec for a personal finance analytics tool | Fintech |
-| [[pm-templates.md](https://github.com/jorgesortiz/README.md/blob/main/PM%20Templates)| Reusable PRD, roadmap, and OKR templates | General PM |
+| [pm-templates.md](https://github.com/jorgesortiz/README.md/blob/main/PM-templates.md)| Reusable PRD, roadmap, and OKR templates | General PM |
 
 ---
 
