@@ -8,7 +8,7 @@ industries.
 | Template | Description |
 |---|---|
 | [prd-template.md](https://github.com/jorgesortiz/README.md/blob/main/prd-template.md) | Full product requirements document structure |
-| `roadmap-template.md` | Quarterly roadmap format |
+| [roadmap-template.md](https://github.com/jorgesortiz/README.md/blob/main/roadmap-template.md) | Quarterly roadmap format |
 | `okr-template.md` | Objectives and key results framework |
 | `user-story-template.md` | User story with acceptance criteria |
 | `competitive-analysis-template.md` | Structured competitor breakdown |
