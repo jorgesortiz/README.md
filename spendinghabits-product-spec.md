@@ -47,7 +47,7 @@ actionable. Less spreadsheet, more lifestyle.
 | [product-vision.md](https://github.com/jorgesortiz/README.md/blob/main/product-vision.md) | Problem, solution, opportunity, and strategic bets |
 | [user-personas.md](https://github.com/jorgesortiz/README.md/blob/main/user-personas-SpendingHabits.md) | Primary and secondary user personas with goals and pain points |
 | [feature-prioritization.md](https://github.com/jorgesortiz/README.md/blob/main/feature-prioritization-spendinghabits.md) | Full feature list using MoSCoW prioritization framework |
-| `okrs.md` | Objectives and key results for the product |
+| [okrs.md](https://github.com/jorgesortiz/README.md/blob/main/okrs-spendinghabits.md) | Objectives and key results for the product |
 
 ---
 
