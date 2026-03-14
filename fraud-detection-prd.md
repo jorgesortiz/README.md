@@ -12,7 +12,7 @@ All client details have been anonymized.
 | [prd-fraud-detection.md](https://github.com/jorgesortiz/README.md/blob/main/prd-fraud-detection.md) | Full product requirements document |
 | [user-personas.md](https://github.com/jorgesortiz/README.md/blob/main/user-personas.md) | Fraud analyst, compliance officer, engineering lead |
 | [kpis-and-success-metrics.md](https://github.com/jorgesortiz/README.md/blob/main/kpis-and-success-metrics.md) | How success is defined and measured |
-| `workflow-diagram.md` | End-to-end alert workflow |
+| [workflow-diagram.md](https://github.com/jorgesortiz/README.md/blob/main/workflow-diagram.md) | End-to-end alert workflow |
 
 ---
 
